@@ -233,7 +233,7 @@ main{
 
 div.kezdo-oldal{
     background:rgb(241, 239, 239);
-    padding-bottom: 20px;
+    height: 100%;
 }
 
 .magamrol-div{
